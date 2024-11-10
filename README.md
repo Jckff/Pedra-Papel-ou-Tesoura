@@ -27,7 +27,7 @@ Este é um simples jogo de **Pedra, Papel ou Tesoura**, desenvolvido com **HTML*
 
 1. Clone este repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/pedra-papel-tesoura.git](https://github.com/jackoffee/Pedra-Papel-ou-Tesoura.git)
+    git clone https://github.com/jackoffee/Pedra-Papel-ou-Tesoura.git
     ```
 
 2. Navegue até o diretório do projeto:
